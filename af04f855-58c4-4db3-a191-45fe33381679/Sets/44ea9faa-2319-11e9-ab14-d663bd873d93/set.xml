@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set name="APK-05-No name yet" id="44ea9faa-2319-11e9-ab14-d663bd873d93" gameId="af04f855-58c4-4db3-a191-45fe33381679" gameVersion="2.0.1.0" version="1.10">
     <cards>
-    <cards>
         <!-- Farsight -->
         <card id="51b632a8-d624-11e9-bb65-2a2ae2dbcce4" name="Farsight">
             <property name="Faction"        value="Tau"/>
