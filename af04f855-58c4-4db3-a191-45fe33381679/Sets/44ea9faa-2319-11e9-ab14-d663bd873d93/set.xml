@@ -352,7 +352,7 @@ Reaction: After a unit moves to this planet, give it Sweep (2) until the end of 
             <property name="Copies"         value="1"/>
             <property name="Squad"          value="49"/>
         </card>
-        <card id="51b64928-d624-11e9-bb65-2a2ae2dbcce4" name="Da DeffKroozer">
+        <card id="51f3527e-183a-41dc-85f5-c68676987b72" name="Da DeffKroozer">
             <property name="Faction"        value="Ork"/>
             <property name="Type"           value="Support"/>
             <property name="Loyalty"        value="Squad (1)"/>
